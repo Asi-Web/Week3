@@ -6,3 +6,4 @@
 # This loop starts at 1 to 50, printing each number on its own line.
 for number in range(1, 51):
     print(number)
+
