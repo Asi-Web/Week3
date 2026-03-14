@@ -1,6 +1,6 @@
 ## Asiwome Agbleze
 ## CMSC 1111
-## Soring 2026
+## Spring 2026
 ## Assignment Loop from 1 to 100
 
 # Loop through numbers from 1 to 100 
